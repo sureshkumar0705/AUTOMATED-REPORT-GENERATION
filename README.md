@@ -1,6 +1,22 @@
 # Automated Report Generation
-
 Automatically generate shareable HTML reports from any Excel file using combination of tools, centered around Python.
+
+---
+
+**Company**: CODETECH IT SOLUTIONS  
+
+**Name**  : SURESH KUMAR P 
+
+**Id**: CT08HDL
+
+**Domain**: PYTHON PROGRAMMING
+
+**Batch Duration**: Dec 30th 2024 to Jan 30th, 2025 
+
+**Mentor Name** : NEELA SANTHOSH
+---
+
+
 
 ## Steps 
 1. Creating a Jupyter Notebook reports from Excel files.
